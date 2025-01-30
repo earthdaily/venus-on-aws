@@ -24,8 +24,9 @@ all of the Venus L2A datasets and will continue to grow as the Venus mission acq
 | B7 | red | 666 |
 | B8 | rededge | 702 |
 | B9 | rededge | 741 |
-| B10 | nir08 | 861 |
-| B11 | nir09 | 909 |
+| B10 | rededge | 782 |
+| B11 | nir08 | 861 |
+| B12 | nir09 | 909 |
 
 ## Accessing Ven&mu;s L2A data on AWS
 
